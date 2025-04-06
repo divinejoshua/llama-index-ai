@@ -1,2 +1,6 @@
 .venv
 .env
+credentials.txt
+.DS_Store
+__pycache__/
+/data
